@@ -1,2 +1,2 @@
 Git is a version control system
-it is open source
+it is a open source
